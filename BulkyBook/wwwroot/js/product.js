@@ -14,8 +14,8 @@ function loadDataTable() {
             { "data": "title", "width": "15%" },
             { "data": "isbn", "width": "15%" },
             { "data": "price", "width": "15%" },
-            { "data": "author", "width": "15%" },
-            { "data": "category.name", "width": "15%" },
+            { "data": "author", "width": "10%" },
+            { "data": "category.name", "width": "10%" },
             {
                 "data": "id",
                 "render": function (data) {
